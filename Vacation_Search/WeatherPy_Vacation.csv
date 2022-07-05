@@ -1,0 +1,420 @@
+City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
+0,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1,Saint-Pierre,RE,67.91,-21.3393,55.4781,Alize Plage
+2,San Quintin,MX,73.58,30.4833,-115.95,Don Eddie's Sport Fishing Center
+8,Ribeira Grande,PT,67.05,38.5167,-28.7,Quinta da Meia Eira
+14,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+15,Yantzaza,EC,68.49,-3.8278,-78.7594,HOTEL ALEJANDRO YANTZAZA
+19,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+20,Hrubieszow,PL,62.38,50.805,23.8925,Hotel Jagiełło
+25,Mokhsogollokh,RU,72.95,61.4681,128.9203,
+27,Faya,SA,72.12,18.3851,42.4509,املاك خالد الشعشوع
+32,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+34,Inhambane,MZ,65.66,-23.865,35.3833,Oceano
+40,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+42,Asau,RO,72.95,46.4333,26.4,Casa Mika Ciobanus
+47,Hualmay,PE,62.94,-11.0964,-77.6139,Hotel Villa Kitzia Huacho
+48,Benguela,AO,67.87,-12.5763,13.4055,Hotel Praia Morena
+51,Zhigansk,RU,65.37,66.7697,123.3711,Gostinichnyy Kompleks Aylgy
+58,Hauterive,FR,66.96,46.0901,3.4459,Aletti Palace Hotel
+59,Dawson Creek,CA,65.84,55.7666,-120.2362,Peace Villa Motel
+60,Souillac,MU,71.98,-20.5167,57.5167,Shanti Maurice Resort & Spa
+68,Quatre Cocos,MU,71.71,-20.2078,57.7625,Sunrise Attitude Hotel
+69,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+72,Muros,ES,66.09,42.7762,-9.0603,Apartment Av. Castelao
+81,Sitka,US,62.49,57.0531,-135.33,Westmark Sitka
+91,Asau,RO,72.95,46.4333,26.4,Casa Mika Ciobanus
+93,Nikolskoye,RU,69.69,59.7035,30.7861,Tourist House - Sablino
+94,Sao Joao Da Barra,BR,72.1,-21.6403,-41.0511,Pousada Porto De Canoas
+97,Tamale,GH,72.57,9.4008,-0.8393,Tap Hotel
+98,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+107,Belmonte,BR,73.08,-15.8631,-38.8828,Pousada Monte Carmelo O Pão
+110,Winkler,CA,73.4,49.1817,-97.941,Quality Inn & Suites
+113,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+115,Le Port,RE,69.76,-20.9373,55.2919,KORBEY D'OR OUEST
+126,Mackay,AU,62.69,-21.15,149.2,International Lodge Motel
+129,Boende,CD,70.9,-0.2167,20.8667,
+131,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+141,Saint-Joseph,RE,66.58,-21.3667,55.6167,"""Plantation Bed and Breakfast"
+142,Atakpame,TG,69.96,7.5333,1.1333,Hôtel Luxembourg Atakpame
+144,Grand Gaube,MU,72.0,-20.0064,57.6608,Veranda Paul et Virginie Hotel & Spa
+147,Roald,NO,63.16,62.5833,6.1333,Flem Cabins
+156,Saint-Philippe,RE,67.59,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+168,Powassan,CA,71.22,46.0334,-79.3496,Munro Park Campgrounds
+171,Batagay,RU,70.03,67.6333,134.6333,Gostinitsa Ki'ileekh
+172,Vadso,NO,65.28,70.0744,29.7487,Scandic Vadsø
+179,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+192,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+194,Pisco,PE,66.25,-13.7,-76.2167,Hotel San Isidro Oficial
+199,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+200,Carballo,ES,65.01,43.213,-8.691,Pazo do Souto
+210,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+214,Ponta Do Sol,PT,70.43,32.6667,-17.1,Hotel do Campo
+217,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+223,Yellowknife,CA,70.32,62.456,-114.3525,The Explorer Hotel
+225,Ilebo,CD,72.7,-4.3167,20.5833,Hôtel BUMAK
+226,Lieksa,FI,62.56,63.3167,30.0167,Kaatrahovi
+227,Nikolskoye,RU,69.69,59.7035,30.7861,Tourist House - Sablino
+229,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+238,Betanzos,ES,65.32,43.2804,-8.2147,Hotel Garelos Betanzos
+240,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+247,Astoria,US,64.6,46.1879,-123.8313,Best Western Astoria Bayfront Hotel
+249,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+252,Cananeia,BR,65.03,-25.0147,-47.9267,Pousada Ancoradouro
+257,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+263,Camacha,PT,65.62,33.0833,-16.3333,Hotel Porto Santo & Spa
+265,Ribeira Grande,PT,67.05,38.5167,-28.7,Quinta da Meia Eira
+273,Simpang,ID,72.41,-1.2667,104.0833,
+281,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+282,Port Hardy,CA,62.78,50.6996,-127.4199,Airport Inn-Port Hardy
+284,Homer,US,64.8,59.6425,-151.5483,Beluga Lake Lodge
+294,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+296,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+300,Loanda,AO,68.0,-8.8368,13.2343,EPIC SANA Luanda
+307,Horta,PT,66.33,38.5333,-28.6333,Hotel do Canal | Horta - Faial
+309,Kirya,TZ,62.98,-3.9167,37.4833,
+311,Campo Verde,BR,72.46,-20.4167,-54.0667,
+314,Ponta Do Sol,PT,70.43,32.6667,-17.1,Hotel do Campo
+321,Kolarovo,SK,62.82,47.9229,17.9847,Penzión Fialový Dom
+322,Port Elizabeth,ZA,62.89,-33.918,25.5701,39 On Nile Guest House
+326,Presidencia Roque Saenz Pena,AR,62.91,-26.7852,-60.4388,Hotel Gualok
+330,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+338,Yellowknife,CA,70.32,62.456,-114.3525,The Explorer Hotel
+339,East London,ZA,70.48,-33.0153,27.9116,Tu Casa
+342,Gamba,GA,70.38,-2.65,10.0,
+350,Saint-Philippe,RE,67.59,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+351,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+365,Faya,SA,72.12,18.3851,42.4509,املاك خالد الشعشوع
+366,Ivanteyevka,RU,66.74,55.9711,37.9208,New Slides
+369,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+376,Kununurra,AU,62.58,-15.7667,128.7333,Hotel Kununurra
+384,Verkhoyansk,RU,70.88,67.5447,133.385,
+388,Port Elizabeth,ZA,62.89,-33.918,25.5701,39 On Nile Guest House
+403,Balkhash,KZ,68.65,46.844,74.9804,Family
+405,Nikolskoye,RU,69.69,59.7035,30.7861,Tourist House - Sablino
+409,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+410,Pisco,PE,66.25,-13.7,-76.2167,Hotel San Isidro Oficial
+415,Ponta Do Sol,PT,70.43,32.6667,-17.1,Hotel do Campo
+420,Dossor,KZ,65.62,47.5272,52.9811,"Gostinitsa Orpk ""Nauryz"""
+430,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+435,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+440,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+444,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+445,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+458,Ribeira Grande,PT,67.05,38.5167,-28.7,Quinta da Meia Eira
+466,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+467,Domna,RU,68.16,51.8971,113.1573,
+468,Pisco,PE,66.25,-13.7,-76.2167,Hotel San Isidro Oficial
+473,Bemidji,US,72.91,47.4736,-94.8803,Hampton Inn & Suites Bemidji
+481,Asfi,MA,68.31,32.2994,-9.2372,Hôtel Abda
+496,Pingliang,CN,66.51,35.5392,106.6861,North Gate Hostel
+497,Mahebourg,MU,71.89,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
+498,Sao Joao Da Barra,BR,72.1,-21.6403,-41.0511,Pousada Porto De Canoas
+499,Marawi,PH,71.89,7.9986,124.2928,Derogongan Residence
+500,Torbay,CA,70.57,47.6666,-52.7314,Gallows Cove
+502,Sechura,PE,69.51,-5.5569,-80.8222,Hospedaje Costa Bella
+509,Hohhot,CN,64.69,40.8106,111.6522,Sheraton Hohhot Hotel
+514,Yambio,SS,66.65,4.5721,28.3955,Naivasha Hotel
+515,Assiniboia,CA,73.22,49.6334,-105.9845,Canalta Hotel Assiniboia
+525,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+528,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+531,San Quintin,MX,73.58,30.4833,-115.95,Don Eddie's Sport Fishing Center
+540,Saint-Joseph,RE,66.58,-21.3667,55.6167,"""Plantation Bed and Breakfast"
+542,Nikolskoye,RU,69.69,59.7035,30.7861,Tourist House - Sablino
+543,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+552,Nikolskoye,RU,69.69,59.7035,30.7861,Tourist House - Sablino
+566,Ribeira Grande,PT,67.05,38.5167,-28.7,Quinta da Meia Eira
+568,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+570,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+572,Namibe,AO,66.2,-15.1961,12.1522,Hotel Chik Chik Namibe
+573,East London,ZA,70.48,-33.0153,27.9116,Tu Casa
+574,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+580,Povarovo,RU,65.82,56.0667,37.05,"Zagorodnyy Uchebno-Ozdorovitel'nyy Kompleks ""Solnechnyy"" - Filial Rankhigs"
+582,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+589,Camacha,PT,65.62,33.0833,-16.3333,Hotel Porto Santo & Spa
+592,Faya,SA,72.12,18.3851,42.4509,املاك خالد الشعشوع
+605,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+615,Ribeira Grande,PT,67.05,38.5167,-28.7,Quinta da Meia Eira
+619,Porto Belo,BR,68.25,-27.1578,-48.5531,Costa Verde Beach Hotel
+621,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+633,Bereda,ES,62.42,43.2686,-7.5406,Pazo de Verdes
+634,Langham,CA,66.02,52.3668,-106.9679,Shady Rest Motel
+642,Lasa,IT,68.88,46.6166,10.7002,Pension Feldgärtenhof
+643,Pisco,PE,66.25,-13.7,-76.2167,Hotel San Isidro Oficial
+647,Powassan,CA,71.22,46.0334,-79.3496,Munro Park Campgrounds
+648,Betong,TH,71.65,5.7743,101.0723,New Cathay Hotel
+650,Vila Velha,BR,73.35,-20.3297,-40.2925,Hotel Vitória Palace
+651,Sitka,US,62.49,57.0531,-135.33,Westmark Sitka
+654,Nikolskoye,RU,69.69,59.7035,30.7861,Tourist House - Sablino
+656,Wabana,CA,70.38,47.6332,-52.9481,Hotel Pavla
+664,Kurumkan,RU,70.81,54.3,110.3,Ilikchin
+673,Bolobo,CD,73.18,-2.1667,16.2333,Hotel de Stephen
+674,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+677,East London,ZA,70.48,-33.0153,27.9116,Tu Casa
+678,Gimli,CA,64.42,50.6336,-96.9907,Lakeview Gimli Resort
+681,Amazar,RU,72.27,53.858,120.875,Гостиничный Комплекс Уют
+683,Bambous Virieux,MU,71.85,-20.3428,57.7575,Casa Tia Villa
+686,Saint-Philippe,RE,67.59,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+689,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+691,North Bend,US,66.24,43.4065,-124.2243,Red Lion Hotel Coos Bay
+695,Quatre Cocos,MU,71.71,-20.2078,57.7625,Sunrise Attitude Hotel
+697,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+703,Saint-Francois,FR,62.42,46.4154,3.9054,Manoir Du Bonheur
+706,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+714,East London,ZA,70.48,-33.0153,27.9116,Tu Casa
+730,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+731,Pisco,PE,66.25,-13.7,-76.2167,Hotel San Isidro Oficial
+743,Moissac,FR,73.47,44.1024,1.0945,Hôtel & Spa Le Moulin De Moissac
+753,Okhotsk,RU,63.18,59.3833,143.3,
+755,East London,ZA,70.48,-33.0153,27.9116,Tu Casa
+757,Torbay,CA,70.57,47.6666,-52.7314,Gallows Cove
+759,Alyangula,AU,69.78,-13.8483,136.4192,Groote Eylandt Lodge
+762,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+764,Yellowknife,CA,70.32,62.456,-114.3525,The Explorer Hotel
+769,Zaozerne,UA,67.28,45.1582,33.2787,"Molodozhnyy Lager' ""Pioner"""
+772,Yellowknife,CA,70.32,62.456,-114.3525,The Explorer Hotel
+775,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+776,Ambilobe,MG,65.26,-13.2,49.05,Hôtel & Restaurant DIANA Ambilobe
+782,Yerbogachen,RU,63.63,61.2767,108.0108,
+786,Rokytne,UA,64.4,51.2796,27.214,Затишок
+791,Rabo De Peixe,PT,68.27,37.8,-25.5833,Quinta das Giestas
+797,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+799,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+811,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+812,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+824,Leh,IN,65.48,34.1667,77.5833,Hotel Ladakh Greens
+835,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+836,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+842,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+844,Am Timan,TD,71.85,11.0297,20.2827,Palais du chef Canton Salamt
+846,Mokhsogollokh,RU,72.95,61.4681,128.9203,
+847,Yellowknife,CA,70.32,62.456,-114.3525,The Explorer Hotel
+852,Yellowknife,CA,70.32,62.456,-114.3525,The Explorer Hotel
+853,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+854,Beira,MZ,66.6,-19.8436,34.8389,Beira Terrace Hotel
+855,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+858,Keningau,MY,71.73,5.3378,116.1602,Sabindo Hotel
+860,Torbay,CA,70.57,47.6666,-52.7314,Gallows Cove
+861,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+864,Potsdam,DE,71.06,52.3989,13.0657,Dorint Hotel Sanssouci Berlin/Potsdam
+865,Saint-Francois,FR,62.42,46.4154,3.9054,Manoir Du Bonheur
+866,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+869,Magdagachi,RU,70.2,53.45,125.8,Motopolyana Magdagachi
+875,Beidao,CN,69.76,34.5686,105.8933,Shell Tianshui Maiji District Erma Road Walking Street Hotel
+876,East London,ZA,70.48,-33.0153,27.9116,Tu Casa
+878,Dauphin,CA,66.34,51.1494,-100.0502,Canway Inn & Suites
+889,Mandalgovi,MN,65.07,45.7625,106.2708,В.Ганбат
+891,Asau,RO,72.95,46.4333,26.4,Casa Mika Ciobanus
+895,Vendome,FR,66.49,47.8,1.0667,Hotel Mercator
+904,Ilhabela,BR,70.0,-23.7781,-45.3581,Ilha Flat Hotel
+914,Port Elizabeth,ZA,62.89,-33.918,25.5701,39 On Nile Guest House
+915,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+926,Zemio,CF,68.76,5.0314,25.1361,OCHA Office
+943,Port Elizabeth,ZA,62.89,-33.918,25.5701,39 On Nile Guest House
+947,Yellowknife,CA,70.32,62.456,-114.3525,The Explorer Hotel
+949,Zyryanka,RU,63.1,65.75,150.85,
+950,Lucapa,AO,65.1,-8.4192,20.7447,Lírio Mendes
+953,Vao,NC,73.0,-22.6667,167.4833,Hotel Kou-Bugny
+956,Bambous Virieux,MU,71.85,-20.3428,57.7575,Casa Tia Villa
+960,Thunder Bay,CA,71.58,48.4001,-89.3168,Victoria Inn Hotel and Convention Centre
+962,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+965,Saint-Philippe,RE,67.59,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+968,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+973,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+979,Pacifica,US,71.49,37.6138,-122.4869,"Pacifica Lighthouse, Trademark Collection by Wyndham"
+980,Santa Maria,BR,65.5,-29.6842,-53.8069,Hotel Morotin
+981,Saint-Pierre,RE,67.91,-21.3393,55.4781,Alize Plage
+982,Pacifica,US,71.49,37.6138,-122.4869,"Pacifica Lighthouse, Trademark Collection by Wyndham"
+988,Skibotn,NO,70.12,69.3913,20.2679,Olderelv Camping
+989,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+992,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+993,Paraiso,CR,68.86,9.8383,-83.8656,Hotel Rinconcito Verde
+995,Torbay,CA,70.57,47.6666,-52.7314,Gallows Cove
+997,Sao Joao Da Barra,BR,72.1,-21.6403,-41.0511,Pousada Porto De Canoas
+1008,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1011,Alyangula,AU,69.78,-13.8483,136.4192,Groote Eylandt Lodge
+1017,Yellowknife,CA,70.32,62.456,-114.3525,The Explorer Hotel
+1018,Suntar,RU,73.27,62.1444,117.6319,Гостевая квартира
+1031,Porto Torres,IT,73.58,40.835,8.3972,Hotel Elisa
+1036,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1037,La Libertad,EC,71.26,-2.2333,-80.9,Playa Canela Hotel Boutique
+1040,Tornio,FI,68.02,65.8481,24.1466,Park Hotel Tornio
+1049,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1052,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1054,Sitka,US,62.49,57.0531,-135.33,Westmark Sitka
+1059,Saint-Philippe,RE,67.59,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1060,Hualmay,PE,62.94,-11.0964,-77.6139,Hotel Villa Kitzia Huacho
+1065,Leh,IN,65.48,34.1667,77.5833,Hotel Ladakh Greens
+1066,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+1067,Santa Isabel,BR,71.31,-23.3156,-46.2214,Chácara Sombra do Altíssimo
+1071,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1073,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1084,Havre-Saint-Pierre,CA,62.96,50.2334,-63.5986,Auberge Niapiskau
+1087,Souillac,MU,71.98,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1089,Marawi,PH,71.89,7.9986,124.2928,Derogongan Residence
+1091,San Quintin,MX,73.58,30.4833,-115.95,Don Eddie's Sport Fishing Center
+1092,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1098,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+1101,Gandajika,CD,71.37,-6.75,23.95,Hôtel Memorial
+1102,East London,ZA,70.48,-33.0153,27.9116,Tu Casa
+1103,Saint-Philippe,RE,67.59,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1109,Ambilobe,MG,65.26,-13.2,49.05,Hôtel & Restaurant DIANA Ambilobe
+1110,Lasa,IT,68.88,46.6166,10.7002,Pension Feldgärtenhof
+1116,Amilly,FR,64.15,47.9728,2.7719,Hôtel Kyriad Montargis Amilly
+1118,Los Llanos De Aridane,ES,67.75,28.6585,-17.9182,Valle Aridane
+1119,Souillac,MU,71.98,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1120,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1132,Faya,SA,72.12,18.3851,42.4509,املاك خالد الشعشوع
+1144,Port Elizabeth,ZA,62.89,-33.918,25.5701,39 On Nile Guest House
+1150,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1152,Zhangjiakou,CN,71.13,40.81,114.8794,Shell Zhangjiakou City Qiaodong District Ginza Hotel
+1154,Lulea,SE,68.07,65.5842,22.1547,Comfort Hotel Arctic
+1160,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1168,Yellowknife,CA,70.32,62.456,-114.3525,The Explorer Hotel
+1179,Ponta Do Sol,PT,70.43,32.6667,-17.1,Hotel do Campo
+1181,Flin Flon,CA,71.44,54.7682,-101.865,Victoria Inn Flin Flon
+1187,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1188,Ponta Do Sol,PT,70.43,32.6667,-17.1,Hotel do Campo
+1189,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1193,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1206,Inongo,CD,70.11,-1.95,18.2667,Hotel Du Lac
+1213,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1215,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1216,Faya,SA,72.12,18.3851,42.4509,املاك خالد الشعشوع
+1222,Ginda,IN,67.17,30.6945,78.4932,Sunil Bisht
+1236,Santa Maria,BR,65.5,-29.6842,-53.8069,Hotel Morotin
+1247,Damphu,BT,69.39,27.0721,90.1096,
+1249,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1250,Shellbrook,CA,65.43,53.2168,-106.4011,Shellbrook Hotel
+1252,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1259,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1260,Saint-Pierre,RE,67.91,-21.3393,55.4781,Alize Plage
+1261,Pisco,PE,66.25,-13.7,-76.2167,Hotel San Isidro Oficial
+1263,Okhotsk,RU,63.18,59.3833,143.3,
+1264,Lagoa,PT,65.39,39.05,-27.9833,Casa Das Faias
+1270,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1272,Quatre Cocos,MU,71.71,-20.2078,57.7625,Sunrise Attitude Hotel
+1275,Padang,ID,71.65,-0.9492,100.3543,Mercure Padang
+1278,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1280,Zhanaozen,KZ,71.53,43.3,52.8,K.korabay 28A
+1289,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+1291,Nikolskoye,RU,69.69,59.7035,30.7861,Tourist House - Sablino
+1298,Hay River,CA,67.96,60.8156,-115.7999,Ptarmigan Inn
+1314,Hengshan,CN,69.58,45.2,130.9167,Yingli Express Hotel
+1316,Souillac,MU,71.98,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1323,Nikolskoye,RU,69.69,59.7035,30.7861,Tourist House - Sablino
+1324,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+1348,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1351,Mahebourg,MU,71.89,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
+1353,Aljezur,PT,62.42,37.3191,-8.8033,Amazigh Hostel
+1354,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1360,Los Llanos De Aridane,ES,67.75,28.6585,-17.9182,Valle Aridane
+1365,Port Elizabeth,ZA,62.89,-33.918,25.5701,39 On Nile Guest House
+1366,Tongzi,CN,71.55,28.7829,105.0877,Jiayuan Hotel
+1373,Port Elizabeth,ZA,62.89,-33.918,25.5701,39 On Nile Guest House
+1385,Ambilobe,MG,65.26,-13.2,49.05,Hôtel & Restaurant DIANA Ambilobe
+1386,Yellowknife,CA,70.32,62.456,-114.3525,The Explorer Hotel
+1387,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1393,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1397,Pisco,PE,66.25,-13.7,-76.2167,Hotel San Isidro Oficial
+1398,Porciuncula,BR,65.91,-20.9628,-42.0408,Pousada Cordeiro
+1400,Innisfail,AU,68.32,-17.5333,146.0333,Moondarra Motel
+1403,Yumen,CN,70.65,40.2833,97.2,
+1404,Yerbogachen,RU,63.63,61.2767,108.0108,
+1406,Kasongo-Lunda,CD,69.62,-6.4667,16.8167,
+1409,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1410,Ponta Do Sol,PT,70.43,32.6667,-17.1,Hotel do Campo
+1411,East London,ZA,70.48,-33.0153,27.9116,Tu Casa
+1412,Wajir,KE,72.41,1.7471,40.0573,Mahatallah Hotel
+1414,Benguela,AO,67.87,-12.5763,13.4055,Hotel Praia Morena
+1415,Maxixe,MZ,64.26,-23.8597,35.3472,Oceano
+1417,Port Elizabeth,ZA,62.89,-33.918,25.5701,39 On Nile Guest House
+1421,Saint-Francois,FR,62.42,46.4154,3.9054,Manoir Du Bonheur
+1425,Lagoa,PT,65.39,39.05,-27.9833,Casa Das Faias
+1437,Saint-Philippe,RE,67.59,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1440,East London,ZA,70.48,-33.0153,27.9116,Tu Casa
+1455,Saint-Philippe,RE,67.59,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1458,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1462,East London,ZA,70.48,-33.0153,27.9116,Tu Casa
+1474,Asau,RO,72.95,46.4333,26.4,Casa Mika Ciobanus
+1478,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1481,Lindi,TZ,69.55,-10.0,39.7167,Lindi paradise house
+1483,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1486,La Peca,PE,72.25,-5.6111,-78.435,Hospedaje San Miguelito
+1487,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1489,Ambilobe,MG,65.26,-13.2,49.05,Hôtel & Restaurant DIANA Ambilobe
+1495,Sao Joao Da Barra,BR,72.1,-21.6403,-41.0511,Pousada Porto De Canoas
+1502,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1503,Ponta Do Sol,PT,70.43,32.6667,-17.1,Hotel do Campo
+1514,Selenginsk,RU,66.61,52.0064,106.8647,Selenga
+1517,Mirnyy,RU,69.24,62.5353,113.9611,квартира
+1518,Xiaoweizhai,CN,71.24,26.1903,107.5125,Karst Youth Hostel
+1523,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1524,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1525,Torbay,CA,70.57,47.6666,-52.7314,Gallows Cove
+1528,Quchan,IR,71.51,37.106,58.5095,گلیم دستبافت کیمیایی
+1530,Garissa,KE,72.59,-0.4536,39.6401,Sharif Plaza Hotel
+1534,Pacifica,US,71.49,37.6138,-122.4869,"Pacifica Lighthouse, Trademark Collection by Wyndham"
+1536,Ouadda,CF,67.26,8.0777,22.4007,
+1539,Asfi,MA,68.31,32.2994,-9.2372,Hôtel Abda
+1543,Port Hawkesbury,CA,68.92,45.6169,-61.3485,MacKenzie House Tourist Home B&B
+1544,Sitka,US,62.49,57.0531,-135.33,Westmark Sitka
+1549,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+1569,Hosanagara,IN,70.21,13.9167,75.0667,Hotel Malpe
+1573,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+1578,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1582,Kaunas,LT,62.87,54.9,23.9,Amberton Cozy Hotel Kaunas
+1594,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1597,Assomada,CV,69.35,15.1,-23.6833,Residencial Cosmos
+1606,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1607,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1612,Yumen,CN,70.65,40.2833,97.2,
+1614,Asau,RO,72.95,46.4333,26.4,Casa Mika Ciobanus
+1617,Vao,NC,73.0,-22.6667,167.4833,Hotel Kou-Bugny
+1619,Mahebourg,MU,71.89,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
+1622,Alyangula,AU,69.78,-13.8483,136.4192,Groote Eylandt Lodge
+1628,East London,ZA,70.48,-33.0153,27.9116,Tu Casa
+1629,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1636,Zhigansk,RU,65.37,66.7697,123.3711,Gostinichnyy Kompleks Aylgy
+1651,Sopelana,ES,67.06,43.3789,-2.9831,Hotel Modus Vivendi
+1653,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1655,Peniche,PT,66.29,39.3558,-9.3811,Hotel Star inn Peniche
+1662,Vila,PT,62.71,42.0304,-8.1588,Hotel Castrum Villae by Walk Hotels
+1668,Bereda,ES,62.42,43.2686,-7.5406,Pazo de Verdes
+1669,Souillac,MU,71.98,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1675,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1679,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+1680,Saint-Philippe,RE,67.59,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1693,Mahebourg,MU,71.89,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
+1698,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1707,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+1708,Huarmey,PE,64.11,-10.0681,-78.1522,Hotel Miramar
+1721,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1731,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1740,Hay River,CA,67.96,60.8156,-115.7999,Ptarmigan Inn
+1743,Paita,PE,64.47,-5.0892,-81.1144,Hotel Náutico de Paita
+1752,Lagoa,PT,65.39,39.05,-27.9833,Casa Das Faias
+1759,Belaya Gora,RU,64.76,68.5333,146.4167,
+1764,Kande,TG,72.25,9.9578,1.0447,
+1768,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1772,Lagoa,PT,65.39,39.05,-27.9833,Casa Das Faias
+1776,Bambous Virieux,MU,71.85,-20.3428,57.7575,Casa Tia Villa
+1777,Ribeira Grande,PT,67.05,38.5167,-28.7,Quinta da Meia Eira
+1779,Saint-Philippe,RE,67.59,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+1782,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+1793,Devils Lake,US,73.51,48.1128,-98.8651,"Holiday Inn Express Devils Lake, an IHG Hotel"
+1803,Yellowknife,CA,70.32,62.456,-114.3525,The Explorer Hotel
+1808,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+1809,Port Alfred,ZA,62.19,-33.5906,26.891,The Halyards Hotel
+1815,Yellowknife,CA,70.32,62.456,-114.3525,The Explorer Hotel
+1816,Kiruna,SE,65.32,67.8557,20.2251,Camp Ripan
+1819,Arraial Do Cabo,BR,71.64,-22.9661,-42.0278,Pousada Porto Praia
+1825,Nikolskoye,RU,69.69,59.7035,30.7861,Tourist House - Sablino
+1827,Disna,BY,68.41,55.568,28.1971,
+1833,Thompson,CA,66.36,55.7435,-97.8558,Burntwood Hotel
+1834,Belaya Gora,RU,64.76,68.5333,146.4167,
+1836,Rikitea,PF,73.45,-23.1203,-134.9692,People ThankYou
+1838,Cairns,AU,73.06,-16.9167,145.7667,Mantra Trilogy Cairns
+1841,Kindia,GN,70.84,10.0569,-12.8658,LES EAUX DE KILISSI
+1842,Souillac,MU,71.98,-20.5167,57.5167,Shanti Maurice Resort & Spa
+1843,Saint-Philippe,RE,67.59,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
